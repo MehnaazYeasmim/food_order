@@ -1,0 +1,26 @@
+                    Index.php
+                ------------------
+
+1. Container class is to add width margin and padding.
+
+
+
+inside category section 
+----------------------------
+
+1. Created float-container for dispaying the title above the image 
+(Pizza, Burger , Momo)
+
+
+                    Categories.php
+                ---------------------
+
+1. Inside categories page we dipslay the category having active='yes'.                    
+
+                Index.php
+            --------------------
+1. Inside food menu section we are dispaying content that is both active and featured.                
+
+                    foods.php
+                -------------------
+1. Inside foods.php we are dispaying content that has active  as yes.
